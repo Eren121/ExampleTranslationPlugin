@@ -1,4 +1,4 @@
 name: ExamplePlugin
 version: ${project.version}
-main: fr.rafoudiablol.internationalization.ExamplePlugin
+main: fr.rafoudiablol.internationalization.example.ExamplePlugin
 api-version: 1.15

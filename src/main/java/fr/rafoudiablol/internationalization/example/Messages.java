@@ -1,5 +1,7 @@
-package fr.rafoudiablol.internationalization;
+package fr.rafoudiablol.internationalization.example;
 
+import fr.rafoudiablol.internationalization.Localization;
+import fr.rafoudiablol.internationalization.UnlocalizedMessage;
 import org.bukkit.plugin.Plugin;
 
 public class Messages extends Localization {

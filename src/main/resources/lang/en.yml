@@ -1,0 +1,2 @@
+hello: Hello !
+say-me-hello: Hello %1 !

@@ -1,4 +1,4 @@
-package fr.rafoudiablol.internationalization;
+package fr.rafoudiablol.internationalization.example;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
